@@ -2,7 +2,6 @@
   "name": "survey-ai-platform",
   "private": true,
   "version": "0.1.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -44,8 +43,5 @@
   "main": "postcss.config.js",
   "author": "",
   "license": "ISC",
-  "description": "",
-  "imports": {
-    "fs": "node:fs"
-  }
+  "description": ""
 }
