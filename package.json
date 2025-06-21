@@ -44,5 +44,8 @@
   "main": "postcss.config.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "imports": {
+    "fs": "node:fs"
+  }
 }
